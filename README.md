@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-Hello World, my name is Jay
+Hello World! My name is Jay!
 
-<!--
 **JaysWay-glitch/JaysWay-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
